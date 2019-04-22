@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WxChatOfficial.Web", "WxChatOfficial.Web\WxChatOfficial.Web.csproj", "{F8A496BC-BD43-4164-9C81-1A1FC3A668EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WxChatOfficial.Util", "WxChatOfficial.Util\WxChatOfficial.Util.csproj", "{5018A952-FAE9-4F5D-9C3D-59EE4E52BCD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8A496BC-BD43-4164-9C81-1A1FC3A668EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A496BC-BD43-4164-9C81-1A1FC3A668EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A496BC-BD43-4164-9C81-1A1FC3A668EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A496BC-BD43-4164-9C81-1A1FC3A668EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5018A952-FAE9-4F5D-9C3D-59EE4E52BCD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5018A952-FAE9-4F5D-9C3D-59EE4E52BCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5018A952-FAE9-4F5D-9C3D-59EE4E52BCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5018A952-FAE9-4F5D-9C3D-59EE4E52BCD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
